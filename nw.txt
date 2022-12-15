@@ -2,3 +2,6 @@ this is the first command
 
 
 the developer changed the message
+
+
+this is another changes i made
